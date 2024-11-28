@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Pinjam;
-use App\Models\Pengembalian;
 use App\Models\User;
 use App\Models\Buku;
 use Illuminate\Support\Facades\Auth;
